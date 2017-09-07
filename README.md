@@ -8,10 +8,10 @@
 ### Nomenclature of Infinite
 i) <b>∞<sup>Ω</sup></b> - Nascent infinite reaction environment
 
-ii) <b>∞<sup>Ω.Cu.29</sup></b> - Copper Infinite Reaction Environment
+ii) <b>∞<sup>Ω.Ti.22</sup></b> - Titanium Infinite Reaction Environment
 
-ii) <b>∞<sup>Ω.𝛿</sup></b> -  Sensor infinite reaction environment
+iii) <b>∞<sup>Ω.Cu.29</sup></b> - Copper Infinite Reaction Environment
 
-iii) <b>∞<sup>Ω<sup>Cu.29</sup></sup></b> - nascent infinite reaction environment
+iv) <b>∞<sup>Ω.Ag.47</sup></b> - Silver Infinite Reaction Environment
 
-iV) <b>∞<sup>Ω.Cu.29</sup></b> - Copper Infinite Reaction Environment
+v) <b>∞<sup>Ω.Au.79</sup></b> - Gold Infinite Reaction Environment
