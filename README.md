@@ -1,4 +1,4 @@
-# I.IIRE<sup>®</sup>: Intelligent Interactive Reaction(s) Environment.
+# I.IIRE<sup>®</sup>: Intelligent Interactive Research Environment.
 
 
 ## About
@@ -13,13 +13,13 @@
 
 i) <b>∞<sup>Ψ</sup></b> - Nascent Intelligent Molecule Storage Environment
 
-ii) <b>∞<sup>Ψ.[1<1>]</sup></b> - Titanium Intelligent Molecule Storage Environment
+ii) <b>∞<sup>Ψ.[1<1>]</sup></b> - α Intelligent Molecule Storage Environment
 
-iii) <b>∞<sup>Ψ.[1<2>]</sup></b> - Copper Intelligent Molecule Storage Environment
+iii) <b>∞<sup>Ψ.[1<2>]</sup></b> - β Intelligent Molecule Storage Environment
 
-iv) <b>∞<sup>Ψ.[1<4>]</sup></b> - Silver Intelligent Molecule Storage Environment
+iv) <b>∞<sup>Ψ.[1<4>]</sup></b> - δ Intelligent Molecule Storage Environment
 
-v) <b>∞<sup>Ψ.[1<9>]</sup></b> - Gold Intelligent Molecule Storage Environment
+v) <b>∞<sup>Ψ.[1<9>]</sup></b> - ι Intelligent Molecule Storage Environment
 
 <b>(2)</b> Intelligent Interactive Reaction Environment
 
@@ -32,3 +32,12 @@ iii) <b>∞<sup>Ω.Cu.29</sup></b> - Copper Infinite Reaction Environment
 iv) <b>∞<sup>Ω.Ag.47</sup></b> - Silver Infinite Reaction Environment
 
 v) <b>∞<sup>Ω.Au.79</sup></b> - Gold Infinite Reaction Environment
+
+These above are the <b>∞</b> naming principle of our Intelligent Interactive Research Environment to deal with future sciences.
+
+Thanks,
+
+Prabhat Kumar, CEO & Founder, <b>Quantumomics, Inc</b>.
+
+
+
