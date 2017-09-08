@@ -11,15 +11,15 @@
 
 <b>(1)</b> Intelligent Molecule Storage Environment
 
-i) <b>∞<sup>Ω</sup></b> - Nascent infinite reaction environment
+i) <b>∞<sup>Ψ</sup></b> - Nascent Intelligent Molecule Storage Environment
 
-ii) <b>∞<sup>Ω.Ti.22</sup></b> - Titanium Infinite Reaction Environment
+ii) <b>∞<sup>Ψ.[1<1>]</sup></b> - Titanium Intelligent Molecule Storage Environment
 
-iii) <b>∞<sup>Ω.Cu.29</sup></b> - Copper Infinite Reaction Environment
+iii) <b>∞<sup>Ψ.[1<2>]</sup></b> - Copper Intelligent Molecule Storage Environment
 
-iv) <b>∞<sup>Ω.Ag.47</sup></b> - Silver Infinite Reaction Environment
+iv) <b>∞<sup>Ψ.[1<4>]</sup></b> - Silver Intelligent Molecule Storage Environment
 
-v) <b>∞<sup>Ω.Au.79</sup></b> - Gold Infinite Reaction Environment
+v) <b>∞<sup>Ψ.[1<9>]</sup></b> - Gold Intelligent Molecule Storage Environment
 
 <b>(2)</b> Intelligent Interactive Reaction Environment
 
