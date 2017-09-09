@@ -36,7 +36,7 @@ v) <b>∞<sup>Ω.Au.79</sup></b> - Gold Infinite Reaction Environment
 
 i) <b>∞<sup>λ</sup></b> - Nascent infinite spots reaction environment
 
-   if we have types of microarrays included:
+   if we have types of spotsarrays included, it would be below defined:
    
       DNA spotsarray,
       
@@ -58,13 +58,15 @@ i) <b>∞<sup>λ</sup></b> - Nascent infinite spots reaction environment
 
 (4) Intelligent Array Reaction Environment
 
-i) <b>∞<sup>Ω</sup></b> - Nascent infinite array reaction environment
+i) <b>∞<sup>φ</sup></b> - Nascent infinite array reaction environment
+
+      if we have types of microarrays included, it would be below defined:
+      
+      ζ - gene expression microarrays,
+      ξ - genome expression microarrays.
 
 These above are the <b>∞</b> naming principle of our Intelligent Interactive Research Environment to deal with future sciences.
 
 Thanks,
 
 Prabhat Kumar, CEO & Founder, <b>Quantumomics, Inc</b>.
-
-
-
