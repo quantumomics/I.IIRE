@@ -62,9 +62,9 @@ i) <b>∞<sup>φ</sup></b> - Nascent infinite array reaction environment
 
       if we have types of microarrays included, it would be below defined:
       
-<b>∞<sup>φ.ζ</sup></b> - gene expression microarrays, and
+- <b>∞<sup>φ.ζ</sup></b> - gene expression microarrays, and
       
-<b>∞<sup>φ.ξ</sup></b> - genome expression microarrays.
+- <b>∞<sup>φ.ξ</sup></b> - genome expression microarrays.
 
 These above are the <b>∞</b> naming principle of our Intelligent Interactive Research Environment to deal with future sciences.
 
