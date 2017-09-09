@@ -32,6 +32,34 @@ iv) <b>∞<sup>Ω.Ag.47</sup></b> - Silver Infinite Reaction Environment
 
 v) <b>∞<sup>Ω.Au.79</sup></b> - Gold Infinite Reaction Environment
 
+(3) Intelligent Spots Reaction Environment,
+
+i) <b>∞<sup>λ</sup></b> - Nascent infinite spots reaction environment
+
+   if we have types of microarrays included:
+   
+      DNA spotsarray,
+      
+      RNA spotsarray,
+      
+      Protein spotsarray,
+      
+      Tissue spotsarray,
+      
+      Cellular spotsarrays (also called transfection spotsarray),
+      
+      Chemical compound spotsarrays,
+      
+      Antibody spotsarrays,
+      
+      Carbohydrate spotsarrays,
+      
+      Phenotype spotsarrays.
+
+(4) Intelligent Array Reaction Environment
+
+i) <b>∞<sup>Ω</sup></b> - Nascent infinite array reaction environment
+
 These above are the <b>∞</b> naming principle of our Intelligent Interactive Research Environment to deal with future sciences.
 
 Thanks,
