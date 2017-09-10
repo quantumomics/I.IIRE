@@ -12,5 +12,4 @@
 	- Dimension (length * width * height)
 	- Weight
   - Amount of Storing the Molecules
-	- Storage Temperature
-	
+	- Storage Temperature (+/- °C)	
