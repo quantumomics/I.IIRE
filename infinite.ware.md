@@ -7,8 +7,8 @@
               -	Glass
               - Ceramic
               - HDPE/LDPE
-              - Electronics
-              - Electrode
+              - Electronics [Au]
+              - Electrode [Cu]
 	- Dimension (length * width * height)
 	- Weight
   - Amount of Storing the Molecules
