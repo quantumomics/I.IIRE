@@ -4,3 +4,10 @@
 {B} Electrical Noise for the nucleic acid (DNA/RNA), protein, and enzymes:
 	a. respective to the molecules, and
 	b. noise constant derivation.
+
+{C} Humidity related study for the nucleic acid (DNA/RNA), protein, and enzymes:
+	All form of DNA,
+	rRNA
+	tRNA
+	snRNA
+	hnRNA
