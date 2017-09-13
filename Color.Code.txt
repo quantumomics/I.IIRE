@@ -1,0 +1,23 @@
+﻿
+
+1. Color: RGB(4,9,9) | Hex (#040909) | HSV(180°,56%,4%) = 
+2. Color: RGB(9,4,9) | Hex (#090409) | HSV(300°,56%,4%) = 
+3. Color: RGB(9,9,4) | Hex (#090904) | HSV(060°,56%,4%) = 
+4. Color: RGB(4,4,9) | Hex (#040409) | HSV(240°,56%,4%) = 
+
+-----------------------------------------------------------
+
+
+Titanium = Color: RGB(4,4,9) | Hex (#6A696F) | HSV(250°,5%,44%).
+
+We need a sensor(s) outer color as a ring, so we can go for distinct.
+
+1. Color: RGB(4,4,4) | Hex (#040404) | HSV(240°,0%,2%) = Ring Color.
+
+
+Color: RGB(4,4,9) | Hex (#040409) | HSV(240°,56%,4%) = Ring Color.
+Color: RGB(4,4,9) | Hex (#040409) | HSV(240°,56%,4%) = Ring Color.
+Color: RGB(4,4,9) | Hex (#040409) | HSV(240°,56%,4%) = Ring Color.
+
+
+Copper Color = #B87333
