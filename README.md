@@ -8,6 +8,8 @@
 
 So, according to the explained philosophy, Infinite is build for 1) intelligent molecule storage environment, 2) intelligent interactive reaction environment, 3) intelligent spots reaction environment, and 4) intelligent array reaction environment. All of geared with the state-of-the-art design and specifications with laboratory protocol(s) to deal with not limited to store and doing the reactions with respect to time, also smart scientist now have capability at some capacity to handle more to out some brilliant research to solve the discovery, invention, and innovations; because of infinite the giant leap is created.
 
+<b>(∞)Infinite</b>, acquired the trade name and it's given principle, and philosophy; finally coined by Prabhat Kumar - I.IIRE®: Intelligent Interactive Research Environment.
+
 ### Nomenclature of Infinite
 
 <b>∞</b>.IIRE, have nomenclature, please go from here:
