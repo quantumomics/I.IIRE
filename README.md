@@ -47,7 +47,9 @@ iv) <b>∞<sup>Ω.Ag.47</sup></b> - Silver Infinite Reaction Environment
 
 v) <b>∞<sup>Ω.Au.79</sup></b> - Gold Infinite Reaction Environment
 
-(3) Intelligent Spots Reaction Environment,
+(3) Intelligent Spots Reaction Environment
+
+Color: RGB(9,9,4) | Hex (#090904) | HSV(60°,56%,4%) = Rectangular Color.
 
 i) <b>∞<sup>λ</sup></b> - Nascent infinite spots reaction environment
 
