@@ -35,6 +35,8 @@ v) <b>∞<sup>Ψ.9</sup></b> - ι Intelligent Molecule Storage Environment
 
 <b>(2)</b> Intelligent Interactive Reaction Environment
 
+Color: RGB(9,4,9) | Hex (#090409) | HSV(300°,56%,4%) = Ring Color.
+
 i) <b>∞<sup>Ω</sup></b> - Nascent infinite reaction environment
 
 ii) <b>∞<sup>Ω.Ti.22</sup></b> - Titanium Infinite Reaction Environment
