@@ -75,6 +75,8 @@ i) <b>∞<sup>λ</sup></b> - Nascent infinite spots reaction environment
 
 (4) Intelligent Array Reaction Environment
 
+Color: RGB(4,4,9) | Hex (#040409) | HSV(240°,56%,4%) = Rectangular Color.
+
 i) <b>∞<sup>φ</sup></b> - Nascent infinite array reaction environment
 
       if we have types of microarrays included, it would be below defined:
