@@ -10,9 +10,12 @@ So, according to the explained philosophy, Infinite is build for 1) intelligent 
 
 <b>(∞)Infinite</b>, acquired the trade name and it's given principle, and philosophy; finally coined by Prabhat Kumar - I.IIRE®: Intelligent Interactive Research Environment.
 
-### Nomenclature of Infinite
+### Nomenclature (∞) Infinite(s)
+Nomenclature of Infinite is a set or system of names that is invented and terms given after for easy and convenient way to do the research with identification of particular purpose.
 
-<b>∞</b>.IIRE, have nomenclature, please go from here:
+The infinite is classified in to four research system and with some smart principle(s) and protocol(s):-
+
+<b>∞</b>.IIRE, nomenclatured below, please go from here:
 
 <b>(1)</b> Intelligent Molecule Storage Environment
 
