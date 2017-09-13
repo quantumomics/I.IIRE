@@ -21,13 +21,13 @@ The infinite is classified in to <b>four research system</b> and with some smart
 
 i) <b>∞<sup>Ψ</sup></b> - Nascent Intelligent Molecule Storage Environment
 
-ii) <b>∞<sup>Ψ.[1<1>]</sup></b> - α Intelligent Molecule Storage Environment
+ii) <b>∞<sup>Ψ.1</sup></b> - α Intelligent Molecule Storage Environment
 
-iii) <b>∞<sup>Ψ.[1<2>]</sup></b> - β Intelligent Molecule Storage Environment
+iii) <b>∞<sup>Ψ.2</sup></b> - β Intelligent Molecule Storage Environment
 
-iv) <b>∞<sup>Ψ.[1<4>]</sup></b> - δ Intelligent Molecule Storage Environment
+iv) <b>∞<sup>Ψ.4</sup></b> - δ Intelligent Molecule Storage Environment
 
-v) <b>∞<sup>Ψ.[1<9>]</sup></b> - ι Intelligent Molecule Storage Environment
+v) <b>∞<sup>Ψ.9</sup></b> - ι Intelligent Molecule Storage Environment
 
 <b>(2)</b> Intelligent Interactive Reaction Environment
 
