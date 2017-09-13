@@ -21,6 +21,8 @@ The infinite is classified in to <b>four research system</b> and with some smart
 
 Mother Nature invented many molecules, like nucleic acids (DNA/RNA), proteins, enzymes and carbohydrates. Due to these molecules life becomes possible and we’re storing it for future research.
 
+Color: RGB(4,9,9) | Hex (#040909) | HSV(180°,56%,4%) = Cap Color.
+
 i) <b>∞<sup>Ψ</sup></b> - Nascent Intelligent Molecule Storage Environment
 
 ii) <b>∞<sup>Ψ.1</sup></b> - α Intelligent Molecule Storage Environment
