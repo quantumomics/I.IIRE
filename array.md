@@ -1,3 +1,4 @@
 # Introduction
 Microarray or microarrays, the major experimental instrument in the assessment of gene expression via cDNA or RNA analysis; however, they are also used to be in screening libraries of proteins, carbohydrates and small molecules.
-Microarrays are to help to extract deeper information from smaller sample volumes and enabled the incorporation of low cost high throughput detection of cancer, knowledge discovery, and assays in the finally drug discovery process.
+Microarrays are to help to extract deeper information from smaller sample volumes and enabling the incorporation of low cost high throughput detection of cancer, knowledge discovery, and assays in the finally drug discovery process.
+It can be used as diagnostic clinical research tools, for providing a expressed overview of gene transcription in diseased tissues. The technology continues to develop and is being rapidly transferred into more challenging areas, with the potential to further aid and enhance the drug discovery process through the development of, for example, genomic, transcriptomic, proteomic, glycomic, metabolomic, cellomic, and tissuomic, namely — research arrays.
