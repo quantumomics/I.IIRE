@@ -1,0 +1,46 @@
+{
+  "name": "i.iire",
+  "version": "0.0.2",
+  "description": "I.IIRE® — A Next Generation Intelligent Interactive Research Environment from Quantumømics, Inc.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quantumomics/I.IIRE.git"
+  },
+  "keywords": [
+    "Infinite",
+    "Intelligent",
+    "Interactive",
+    "Research",
+    "Environment"
+  ],
+  "author": {
+    "name": "quantumømics, Inc.",
+    "email": "quantumomics@gmail.com",
+    "url": "http://research.sequomics.com/"
+  },
+  "maintainers": [
+    {
+      "name": "Prabhat Kumar",
+      "email": "prabhat.omics@gmail.com",
+      "url": "http://prabhatkumar.org/"
+    },
+    {
+      "name": "Sequømics, Inc.",
+      "email": "sequomics@gmail.com",
+      "url": "http://sequomics.com/"
+    }
+  ],
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/quantumomics/I.IIRE/issues"
+  },
+  "homepage": "https://github.com/quantumomics/I.IIRE#readme",
+  "dependencies": {},
+  "devDependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
