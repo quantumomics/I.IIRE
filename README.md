@@ -90,3 +90,7 @@ These above are the <b>∞</b> naming principle of our Intelligent Interactive R
 Thanks,
 
 Prabhat Kumar, CEO & Founder, <b>Quantumomics, Inc</b>.
+
+Ӝ — Prabhat Kumar,</br>
+<b>№ 4°9</b>, Ignited Engine,</br>Neurone Avenue,</br>
+<b>√•</b> Circuit Nearly,</br>※ Earth.
