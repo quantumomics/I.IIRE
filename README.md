@@ -1,5 +1,6 @@
 # I.IIRE<sup>®</sup>: Intelligent Interactive Research Environment.
 
+## [![NPM](https://img.shields.io/badge/npm-status-green.svg)](https://www.npmjs.com/~quantumomics)
 
 ## About
 <b>∞</b>, (Infinite) is a concept of switching the next generation intelligent interactive way to do the science experiment with moral and ethical values earned by any experimentalist and an eminent scientist.
