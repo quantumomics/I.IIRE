@@ -86,6 +86,9 @@ i) <b>∞<sup>φ</sup></b> - Nascent infinite array reaction environment
       
 - <b>∞<sup>φ.ω</sup></b> - genome expression microarrays.
 
+(5) Intelligent Weight Array Reaction Environment
+<b>∞<sup>δ</sup></b>
+
 These above are the <b>∞</b> naming principle of our Intelligent Interactive Research Environment to deal with future sciences.
 
 Thanks,
